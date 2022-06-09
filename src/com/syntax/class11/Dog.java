@@ -40,6 +40,7 @@ public class Dog {
 			
 			
 			
+			System.out.println(jimmy.breed.length());
 			
 			
 		}}
